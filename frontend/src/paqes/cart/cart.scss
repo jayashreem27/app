@@ -1,0 +1,22 @@
+/* Cart.module.scss */
+
+.cartContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Gap between images */
+    margin-top: 20px;
+}
+
+.cartItemImage {
+    width: 120px; /* Image width */
+    height: 120px; /* Image height */
+    object-fit: cover; /* Resize image to fit */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 6px; /* Border radius */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    transition: transform 0.3s ease-in-out; /* Smooth scale transition */
+}
+
+.cartItemImage:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+}
