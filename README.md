@@ -1,11 +1,8 @@
 
-# Shopito
+# BellaModa
 
-Shopito is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It supports user authentication, product management, cart functionality, and a responsive UI.
-
-## 🌐 Live Demo
-
-_Coming soon_ or _Host it locally using the instructions below._
+BellaModa is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It supports user authentication, product management, cart functionality, and a responsive UI.
+<img width="675" height="336" alt="image" src="https://github.com/user-attachments/assets/16b858cc-4302-4119-b28d-bf10fdf52442" />
 
 ---
 
@@ -89,18 +86,8 @@ npm start
 
 ---
 
-## 🤝 Contributions
-
-Feel free to fork the repo and submit pull requests.
-
----
-
 ## 🧑‍💻 Author
 
 - GitHub: [jayashreem27](https://github.com/jayashreem27)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
