@@ -3,6 +3,7 @@
 
 BellaModa is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It supports user authentication, product management, cart functionality, and a responsive UI.
 <img width="675" height="336" alt="image" src="https://github.com/user-attachments/assets/16b858cc-4302-4119-b28d-bf10fdf52442" />
+<img width="673" height="313" alt="image" src="https://github.com/user-attachments/assets/364a3332-abc2-4834-9485-8e693acafb73" />
 
 ---
 
